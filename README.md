@@ -15,7 +15,6 @@ This is my personal portfolio website showcasing my skills, projects, and experi
 - JavaScript
 - Git & GitHub
 - GitHub Pages
-- AWS (EC2, S3 – project based)
 
 ---
 
